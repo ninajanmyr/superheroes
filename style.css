@@ -29,3 +29,10 @@ list-style-type: none;
 height: 300px;
 margin-left: 500px;
 }
+ 
+.spin {
+transform:rotate(720deg);
+ -webkit-transform:rotate(720deg);
+ transition: transform 4s;
+-webkit-transition: -webkit-transform 4s;
+}
