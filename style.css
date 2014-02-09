@@ -1,0 +1,31 @@
+h1 {
+	color: red; 
+}
+h2{
+color: green;
+}
+body {
+background: orange;
+}
+p {
+color: purple;
+border: solid 5px yellow;
+width: 300px;
+}
+img {
+height: 200px;
+border-radius: 15px;
+}
+a {
+margin: 5px;
+}
+a img {
+height: 20px;                    
+}
+li {
+list-style-type: none;
+}
+#superheroes {
+height: 300px;
+margin-left: 500px;
+}
